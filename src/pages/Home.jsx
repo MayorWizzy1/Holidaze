@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { HeroSection } from '../components/homePage/heroSection';
+import { HeroSection } from '../components/homePage/HeroSection';
 import { MostPopularSection } from '../components/homePage/MostPopularSection';
 import { NewlyAddedSection } from '../components/homePage/NewlyAddedSection';
 import { TrendingDestinationSection } from '../components/homePage/TrendingDestinationSection';
